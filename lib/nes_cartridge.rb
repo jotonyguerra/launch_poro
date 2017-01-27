@@ -7,6 +7,12 @@ class NesCartridge
     @year = year
   end
   def to_s
-    asdfas
+<<<<<<< HEAD
+
+"#{title} by #{manufacturer} ©#{year}"
+
+=======
+     
+>>>>>>> test-branch2
   end
 end
